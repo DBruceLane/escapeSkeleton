@@ -1,9 +1,9 @@
 # Setup
-title: Noir
-tagline: a dark mode friendly Jekyll theme
-url: https://noir.essentialenemy.com
+title: Who are you?
+tagline: _???????_
+url: DBruceLane.github.io
 paginate: 1
-baseurl: ""
+baseurl: "/escapeSkeleton"
 permalink: :title/
 
 kramdown:
@@ -37,11 +37,10 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Victor Johnson
-  url: https://twitter.com/essentialenemy
-  email: me@essentialenemy.com
+  name: -?-| DBL |-?-
+  email: imnotreal@gmail.com
 
 # Custom vars
-version: 1.3.0
+version: 10.31.2022
 github:
-  repo: https://github.com/essentialenemy/noir
+  repo: https://github.com/DBruceLane/escapeSkeleton
